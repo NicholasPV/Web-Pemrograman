@@ -1,20 +1,10 @@
 @extends('layouts.main')
 
 @section('content')
-    <center><img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8&w=1000&q=80" alt="image" style="width:200px;height:200px;"></center>
-    </p>
-    <h2><center>Nama: Hisyam Fausta</center></h2>
-    <h2><center>NIM: 20210801191</center></h2>
+    <center><img src="https://preview.redd.it/raiden-stickers-from-the-genshin-qq-chat-v0-0pgkt5v0u5m81.jpg?width=390&format=pjpg&auto=webp&s=0ac89430013823ccf17771e05f7342e520c9ae9f" alt="image"></center>
+    
+    <p><center>Nama: Nicholas Patrick Varian</center></p>
+    <p><center>NIM: 20210801102</center></p>
 
-    <h1>Proficiency</h1>
-    <div>
-        <ul id="skill-list">
-            <li>Java</li>
-            <li>Kotlin</li>
-            </p>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>Javascript</li>
-        </ul>
-    </div>
+    <p><center>Get Bonked!!!</center></p>
 @endsection
