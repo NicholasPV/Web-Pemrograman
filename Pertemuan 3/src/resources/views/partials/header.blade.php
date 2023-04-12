@@ -7,6 +7,9 @@
         <div class="navbar-collapse collapse flex-grow-1 justify-content-center" id="navbar5">
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
+                    <a class="nav-link" href="{{ route('welcome') }}">Home</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="{{ route('profile') }}">Profiles</a>
                 </li>
                 <li class="nav-item">
